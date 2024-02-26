@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c1f07a933c1533dbb32e88d8a7dbfaed {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_c1f07a933c1533dbb32e88d8a7dbfaed" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c1f07a933c1533dbb32e88d8a7dbfaed = L.map(
+                "map_c1f07a933c1533dbb32e88d8a7dbfaed",
+                {
+                    center: [-14.235004, -51.92528],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1436ade7287a21a8900478cbba3e6a16 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+                tile_layer_1436ade7287a21a8900478cbba3e6a16.addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+    
+            var marker_429fd0d704eb649c7bb885c79753d52f = L.marker(
+                [-9.702555041197337, -68.4518519482381],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_429fd0d704eb649c7bb885c79753d52f.bindTooltip(
+                `<div>
+                     State: AC<br>Most Popular Item: furniture_decor
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c33c290b018a33608fc608bffb155b9 = L.marker(
+                [-9.599728966379828, -36.05201677757483],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_6c33c290b018a33608fc608bffb155b9.bindTooltip(
+                `<div>
+                     State: AL<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_12e734c514bf87871296cb07fac49382 = L.marker(
+                [-3.349336304158689, -60.53742965565402],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_12e734c514bf87871296cb07fac49382.bindTooltip(
+                `<div>
+                     State: AM<br>Most Popular Item: computers_accessories
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bcf53053d130ce106e2c12da831561e0 = L.marker(
+                [0.08602518971632306, -51.23430449751234],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_bcf53053d130ce106e2c12da831561e0.bindTooltip(
+                `<div>
+                     State: AP<br>Most Popular Item: fixed_telephony
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_af16f5b24ffa538c128ae75a2b26da42 = L.marker(
+                [-13.049360869325652, -39.560648696030576],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_af16f5b24ffa538c128ae75a2b26da42.bindTooltip(
+                `<div>
+                     State: BA<br>Most Popular Item: computers_accessories
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2cf2af286dd9a0f969bd8de585ea9446 = L.marker(
+                [-4.36315122962809, -39.00413976333794],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_2cf2af286dd9a0f969bd8de585ea9446.bindTooltip(
+                `<div>
+                     State: CE<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_16d98594ab5e1e10a8f4e19dc45d2ac3 = L.marker(
+                [-15.810884759001096, -47.96963045270266],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_16d98594ab5e1e10a8f4e19dc45d2ac3.bindTooltip(
+                `<div>
+                     State: DF<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c8023a7407dd16e7e06783bdba9ab965 = L.marker(
+                [-20.105145324187276, -40.50318322322485],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_c8023a7407dd16e7e06783bdba9ab965.bindTooltip(
+                `<div>
+                     State: ES<br>Most Popular Item: garden_tools
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f17f7c4cab9762c7dfb4aa0f66c1d796 = L.marker(
+                [-16.577644584237593, -49.33419502806323],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_f17f7c4cab9762c7dfb4aa0f66c1d796.bindTooltip(
+                `<div>
+                     State: GO<br>Most Popular Item: furniture_decor
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_08743b42288b9e208fe89c90df04d736 = L.marker(
+                [-3.7989966701671265, -44.81862689333526],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_08743b42288b9e208fe89c90df04d736.bindTooltip(
+                `<div>
+                     State: MA<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b7263b062d16e0e34c9557e32e60d951 = L.marker(
+                [-19.8646472791171, -44.42161506590787],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_b7263b062d16e0e34c9557e32e60d951.bindTooltip(
+                `<div>
+                     State: MG<br>Most Popular Item: computers_accessories
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e7e26a72e3f8ec9735f9e09b27814258 = L.marker(
+                [-20.765005763284858, -54.53214031549422],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_e7e26a72e3f8ec9735f9e09b27814258.bindTooltip(
+                `<div>
+                     State: MS<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6433bb039ba8dcf4f97aac57e3b41e3c = L.marker(
+                [-14.156481652355609, -55.708955824019334],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_6433bb039ba8dcf4f97aac57e3b41e3c.bindTooltip(
+                `<div>
+                     State: MT<br>Most Popular Item: garden_tools
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bc14bb66dfef5d512ad0bd9bdabdcffc = L.marker(
+                [-2.6312130665342277, -49.4858616770825],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_bc14bb66dfef5d512ad0bd9bdabdcffc.bindTooltip(
+                `<div>
+                     State: PA<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b4e5e9c56f744ddaabd3c92c7dcf9f8b = L.marker(
+                [-7.08829790924903, -35.82167825839298],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_b4e5e9c56f744ddaabd3c92c7dcf9f8b.bindTooltip(
+                `<div>
+                     State: PB<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fb56558c2747e17a4bbabde0439ccdde = L.marker(
+                [-8.179098403904215, -35.75886555563954],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_fb56558c2747e17a4bbabde0439ccdde.bindTooltip(
+                `<div>
+                     State: PE<br>Most Popular Item: watches_gifts
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9a7653e212b7585b6d303410d348131e = L.marker(
+                [-5.754988726061569, -42.50954149377485],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_9a7653e212b7585b6d303410d348131e.bindTooltip(
+                `<div>
+                     State: PI<br>Most Popular Item: housewares
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1fe9966d871a3cdbdf220cbdff6fab4c = L.marker(
+                [-24.793606676623277, -50.8796624431511],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_1fe9966d871a3cdbdf220cbdff6fab4c.bindTooltip(
+                `<div>
+                     State: PR<br>Most Popular Item: garden_tools
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0dc7c491e64c586c1374ccb212ef14af = L.marker(
+                [-22.743477321669616, -43.15554026830261],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_0dc7c491e64c586c1374ccb212ef14af.bindTooltip(
+                `<div>
+                     State: RJ<br>Most Popular Item: computers_accessories
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4e40425b34b732d4d0fb10b9bdc185ab = L.marker(
+                [-5.856702064225209, -35.99007862513833],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_4e40425b34b732d4d0fb10b9bdc185ab.bindTooltip(
+                `<div>
+                     State: RN<br>Most Popular Item: books_general_interest
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b9f51fc25f28f07e581bf7c85dda2164 = L.marker(
+                [-10.341289125647073, -62.720578548602134],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_b9f51fc25f28f07e581bf7c85dda2164.bindTooltip(
+                `<div>
+                     State: RO<br>Most Popular Item: computers_accessories
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_56e2ebe569c1e1a02de2327e3ac57917 = L.marker(
+                [2.7171004644238934, -60.67286554709663],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_56e2ebe569c1e1a02de2327e3ac57917.bindTooltip(
+                `<div>
+                     State: RR<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_18196b6c780b128b96794a04c91a5eea = L.marker(
+                [-29.67919062328251, -52.03265163171496],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_18196b6c780b128b96794a04c91a5eea.bindTooltip(
+                `<div>
+                     State: RS<br>Most Popular Item: garden_tools
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_13db8d0a0008dbf6393da57894b31275 = L.marker(
+                [-27.222485826583537, -49.6179368726889],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_13db8d0a0008dbf6393da57894b31275.bindTooltip(
+                `<div>
+                     State: SC<br>Most Popular Item: garden_tools
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3c19c2ef513b4bcde9b3c32924a85de4 = L.marker(
+                [-10.866199407643286, -37.18116903794639],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_3c19c2ef513b4bcde9b3c32924a85de4.bindTooltip(
+                `<div>
+                     State: SE<br>Most Popular Item: health_beauty
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9e1254463f4fde338e974b012e283a2d = L.marker(
+                [-23.155308346172937, -47.0840736716131],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_9e1254463f4fde338e974b012e283a2d.bindTooltip(
+                `<div>
+                     State: SP<br>Most Popular Item: furniture_decor
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c6a95762728f1c6a0e3aaf197dd525de = L.marker(
+                [-9.503700370876633, -48.348661062026544],
+                {}
+            ).addTo(map_c1f07a933c1533dbb32e88d8a7dbfaed);
+        
+    
+            marker_c6a95762728f1c6a0e3aaf197dd525de.bindTooltip(
+                `<div>
+                     State: TO<br>Most Popular Item: home_appliances_2
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

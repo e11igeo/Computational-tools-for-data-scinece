@@ -1,0 +1,761 @@
+﻿ds_holidays,holiday,ds,country,code,country_official_name,lower_window,upper_window,prior_scale,source
+2/24/2020,Día de Carnaval [Carnival's Day],3/2/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/25/2020,Día de Carnaval [Carnival's Day],3/3/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/24/2020,Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],3/31/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],4/16/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],4/17/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Día de Pascuas [Easter Day],4/19/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/2/2020,Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],4/9/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Día de la Revolucion de Mayo [May Revolution Day],6/1/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/17/2020,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],6/24/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/20/2020,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],6/27/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/9/2020,Día de la Independencia [Independence Day],7/16/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/17/2020,Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],8/24/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],10/19/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/20/2020,Día Nacional de la Soberanía [National Sovereignty Day],11/27/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,La Inmaculada Concepción [Immaculate Conception],12/15/2020,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Argentina,AR,Argentine Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Ostermontag,4/20/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Staatsfeiertag,5/8/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Christi Himmelfahrt,5/28/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pfingstmontag,6/8/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/11/2020,Fronleichnam,6/18/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Mariä Himmelfahrt,8/22/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/26/2020,Nationalfeiertag,11/2/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Allerheiligen,11/8/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Mariä Empfängnis,12/15/2020,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christtag,1/1/2021,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Stefanitag,1/2/2021,Austria,AT,Republic of Austria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/26/2020,Australia Day,2/2/2020,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/27/2020,Australia Day (Observed),2/3/2020,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Easter Monday,4/20/2020,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/25/2020,Anzac Day,5/2/2020,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/28/2020,Boxing Day (Observed),1/4/2021,Australia,AU,Australia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/21/2020,Language Martyrs' Day,2/28/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/17/2020,Mujib's birthday,3/24/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/26/2020,Independence Day,4/2/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/14/2020,Bengali New Year's Day,4/21/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,National Mourning Day,8/22/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/16/2020,Victory Day,12/23/2020,Bangladesh,BD,People's Republic of Bangladesh,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Pasen,4/19/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Paasmaandag,4/20/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,O.L.H. Hemelvaart,5/28/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Pinksteren,6/7/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pinkstermaandag,6/8/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Dag van de Arbeid,5/8/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/21/2020,Nationale feestdag,7/28/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,O.L.V. Hemelvaart,8/22/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Allerheiligen,11/8/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/11/2020,Wapenstilstand,11/18/2020,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Kerstmis,1/1/2021,Belgium,BE,Kingdom of Belgium,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/3/2020,Ден на Освобождението на България от османско иго,3/10/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Ден на труда и на международната работническа солидарност,5/8/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/6/2020,"Гергьовден, Ден на храбростта и Българската армия",5/13/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Ден на българската просвета и култура и на славянската писменост,5/31/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/6/2020,Ден на Съединението,9/13/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/22/2020,Ден на Независимостта на България,9/29/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Ден на народните будители,11/8/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Бъдни вечер,12/31/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Рождество Христово,1/1/2021,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Рождество Христово,1/2/2021,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/17/2020,Велики петък,4/24/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/18/2020,Велика събота,4/25/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/19/2020,Великден,4/26/2020,Bulgaria,BG,Republic of Bulgaria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/21/2020,Tiradentes,4/28/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Worker's Day,5/8/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/7/2020,Independence Day,9/14/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Our Lady of the Apparition,10/19/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/2/2020,All Souls' Day,11/9/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/15/2020,Republic Proclamation Day,11/22/2020,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas,1/1/2021,Brazil,BR,Federative Republic of Brazil,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/8/2020,День женщин,3/15/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/28/2020,Радуница,5/5/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Праздник труда,5/8/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/9/2020,День Победы,5/16/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/3/2020,День Независимости Республики Беларусь (День Республики),7/10/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/7/2020,День Октябрьской революции,11/14/2020,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Рождество Христово (католическое Рождество),1/1/2021,Belarus,BY,Republic of Belarus,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/17/2020,Family Day,2/24/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/18/2020,Victoria Day,5/25/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/1/2020,Canada Day,7/8/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/3/2020,Civic Holiday,8/10/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/7/2020,Labour Day,9/14/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Thanksgiving,10/19/2020,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/28/2020,Boxing Day (Observed),1/4/2021,Canada,CA,Canada,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Ostern,4/19/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Karfreitag,4/17/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Ostermontag,4/20/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Auffahrt,5/28/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Pfingsten,6/7/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pfingstmontag,6/8/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/1/2020,Nationalfeiertag,8/8/2020,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Weihnachten,1/1/2021,Switzerland,CH,Swiss Confederation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],4/17/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Día de Pascuas [Easter Day],4/19/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Día de las Glorias Navales [Naval Glories Day],5/28/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/29/2020,San Pedro y San Pablo [Saint Peter and Saint Paul],7/6/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/16/2020,Virgen del Carmen [Virgin of Carmen],7/23/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Asunsión de la Virgen [Assumption of the Virgin],8/22/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/18/2020,Día de la Independencia [Independence Day],9/25/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/19/2020,Día de las Glorias del Ejército de Chile [Day of Glories of the Army of Chile],9/26/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Día del Respeto a la Diversidad [Day of the Meeting  of Two Worlds],10/19/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/31/2020,Día Nacional de las Iglesias Evangélicas y Protestantes  [National Day of the  Evangelical and  Protestant Churches],11/7/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Día de Todos los Santos [All Saints Day],11/8/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,La Inmaculada Concepción [Immaculate Conception],12/15/2020,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Chile,CL,Republic of Chile,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/25/2020,Chinese New Year,2/1/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/4/2020,Tomb-Sweeping Day,4/11/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/5/2020,Tomb-Sweeping Day,4/12/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/25/2020,Dragon Boat Festival,7/2/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/1/2020,"National Day, Mid-Autumn Festival",10/8/2020,China,CN,People's Republic of China,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/20/2020,Día de la Independencia [Independence Day],7/27/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/7/2020,Batalla de Boyacá [Battle of Boyacá],8/14/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,La Inmaculada Concepción [Immaculate Conception],12/15/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/23/2020,Día de San José [Saint Joseph's Day](Observed),3/30/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/29/2020,San Pedro y San Pablo [Saint Peter and Saint Paul],7/6/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/17/2020,La Asunción [Assumption of Mary](Observed),8/24/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Descubrimiento de América [Discovery of America],10/19/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/2/2020,Dia de Todos los Santos [All Saint's Day](Observed),11/9/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/16/2020,Independencia de Cartagena [Independence of Cartagena](Observed),11/23/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Jueves Santo [Maundy Thursday],4/16/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo [Good Friday],4/17/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Ascensión del señor [Ascension of Jesus](Observed),6/1/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/15/2020,Corpus Christi [Corpus Christi](Observed),6/22/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/22/2020,Sagrado Corazón [Sacred Heart](Observed),6/29/2020,Colombia,CO,Republic of Colombia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Velký pátek,4/17/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Velikonoční pondělí,4/20/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Svátek práce,5/8/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/8/2020,Den vítězství,5/15/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/5/2020,Den slovanských věrozvěstů Cyrila a Metoděje,7/12/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/6/2020,Den upálení mistra Jana Husa,7/13/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/28/2020,Den české státnosti,10/5/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/28/2020,Den vzniku samostatného československého státu,11/4/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/17/2020,Den boje za svobodu a demokracii,11/24/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Štědrý den,12/31/2020,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,1. svátek vánoční,1/1/2021,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,2. svátek vánoční,1/2/2021,Czechia,CZ,Czech Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Karfreitag,4/17/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Ostermontag,4/20/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Erster Mai,5/8/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Christi Himmelfahrt,5/28/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pfingstmontag,6/8/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/3/2020,Tag der Deutschen Einheit,10/10/2020,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Erster Weihnachtstag,1/1/2021,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Zweiter Weihnachtstag,1/2/2021,Germany,DE,Federal Republic of Germany,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/5/2020,Palmesøndag,4/12/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Skærtorsdag,4/16/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Langfredag,4/17/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Påskedag,4/19/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Anden påskedag,4/20/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/8/2020,Store bededag,5/15/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Kristi himmelfartsdag,5/28/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Pinsedag,6/7/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Anden pinsedag,6/8/2020,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Juledag,1/1/2021,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Anden juledag,1/2/2021,Denmark,DK,Kingdom of Denmark,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/21/2020,Día de la Altagracia [Lady of Altagracia],1/28/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/26/2020,Día de Duarte [Juan Pablo Duarte Day],2/2/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/27/2020,Día de Independencia [Independence Day],3/5/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo [Good Friday],4/17/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/4/2020,Día del Trabajo [Labor Day],5/11/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/11/2020,Corpus Christi [Feast of Corpus Christi],6/18/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/16/2020,Día de la Restauración [Restoration Day],8/23/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/24/2020,Día de las Mercedes             [Our Lady of Mercedes Day],10/1/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/9/2020,Día de la Constitución [Constitution Day],11/16/2020,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Día de Navidad [Christmas Day],1/1/2021,Dominican Republic,DO,Dominican Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/24/2020,iseseisvuspäev,3/2/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,suur reede,4/17/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,ülestõusmispühade 1. püha,4/19/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,kevadpüha,5/8/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,nelipühade 1. püha,6/7/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/23/2020,võidupüha,6/30/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/24/2020,jaanipäev,7/1/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/20/2020,taasiseseisvumispäev,8/27/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,jõululaupäev,12/31/2020,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,esimene jõulupüha,1/1/2021,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,teine jõulupüha,1/2/2021,Estonia,EE,Republic of Estonia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/23/2020,Sinai Liberation Day,7/30/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/6/2020,Armed Forces Day,10/13/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/20/2020,Sham El Nessim,4/27/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/20/2020,Islamic New Year,8/27/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Birth of Prophet,11/5/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Eid al-Fitr,5/31/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Eid al-Fitr,6/1/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/26/2020,Eid al-Fitr,6/2/2020,Egypt,EG,Arab Republic of Egypt,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo,4/17/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajador,5/8/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Asunción de la Virgen,8/22/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Día de la Hispanidad,10/19/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Todos los Santos,11/8/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/6/2020,Día de la constitución Española,12/13/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,La Inmaculada Concepción,12/15/2020,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad,1/1/2021,Spain,ES,Kingdom of Spain,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Pitkäperjantai,4/17/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Pääsiäispäivä,4/19/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,2. pääsiäispäivä,4/20/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Vappu,5/8/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Helatorstai,5/28/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Helluntaipäivä,6/7/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/20/2020,Juhannuspäivä,6/27/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/31/2020,Pyhäinpäivä,11/7/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/6/2020,Itsenäisyyspäivä,12/13/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Joulupäivä,1/1/2021,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Tapaninpäivä,1/2/2021,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/19/2020,Juhannusaatto,6/26/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Jouluaatto,12/31/2020,Finland,FI,Republic of Finland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Fête du Travail,5/8/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/8/2020,Armistice 1945,5/15/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/14/2020,Fête nationale,7/21/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/11/2020,Armistice 1918,11/18/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Lundi de Pâques,4/20/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Lundi de Pentecôte,6/8/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Ascension,5/28/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Assomption,8/22/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Toussaint,11/8/2020,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Noël,1/1/2021,France,FR,French Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/17/2020,St. Patrick's Day [Northern Ireland],3/24/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,"Easter Monday [England, Wales, Northern Ireland]",4/20/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/8/2020,May Day,5/15/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Spring Bank Holiday,6/1/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/12/2020,Battle of the Boyne [Northern Ireland],7/19/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/3/2020,Summer Bank Holiday [Scotland],8/10/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/31/2020,"Late Summer Bank Holiday [England, Wales, Northern Ireland]",9/7/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/30/2020,St. Andrew's Day [Scotland],12/7/2020,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/28/2020,Boxing Day (Observed),1/4/2021,United Kingdom,GB,United Kingdom of Great Britain and Northern Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/2/2020,Καθαρά Δευτέρα [Clean Monday],3/9/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/25/2020,Εικοστή Πέμπτη Μαρτίου [Independence Day],4/1/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/20/2020,Δευτέρα του Πάσχα [Easter Monday],4/27/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Εργατική Πρωτομαγιά [Labour day],5/8/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/8/2020,Δευτέρα του Αγίου Πνεύματος [Monday of the Holy Spirit],6/15/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Κοίμηση της Θεοτόκου [Assumption of Mary],8/22/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/28/2020,Ημέρα του Όχι [Ochi Day],11/4/2020,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Χριστούγεννα [Christmas],1/1/2021,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Επόμενη ημέρα των Χριστουγέννων [Day after Christmas],1/2/2021,Greece,GR,Hellenic Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/3/2020,Día de la virgen de Suyapa [Our Lady of Suyapa] (Observed),2/10/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/19/2020,Día del Padre [Father's Day] (Observed),3/26/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Jueves Santo [Maundy Thursday],4/16/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo [Good Friday],4/17/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/11/2020,Sábado de Gloria [Holy Saturday],4/18/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Domingo de Resurrección [Easter Sunday],4/19/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/14/2020,Día de las Américas [America Day],4/21/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/10/2020,Día de la madre [Mother's Day] (Observed),5/17/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/10/2020,Día del niño [Children day] (Observed),9/17/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/15/2020,Día de la Independencia [Independence Day],9/22/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/17/2020,Día del Maestro [Teacher's day] (Observed),9/24/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/3/2020,Semana Morazánica [Morazan Weekend],10/10/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/4/2020,Semana Morazánica [Morazan Weekend],10/11/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/5/2020,Semana Morazánica [Morazan Weekend],10/12/2020,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Honduras,HN,Republic of Honduras,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Uskrs,4/19/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Uskrsni ponedjeljak,4/20/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/11/2020,Tijelovo,6/18/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Međunarodni praznik rada,5/8/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/22/2020,Dan antifašističke borbe,6/29/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/25/2020,Dan državnosti,7/2/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/5/2020,Dan pobjede i domovinske zahvalnosti,8/12/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Velika Gospa,8/22/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/8/2020,Dan neovisnosti,10/15/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Svi sveti,11/8/2020,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Božić,1/1/2021,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Sveti Stjepan,1/2/2021,Croatia,HR,Republic of Croatia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/15/2020,Nemzeti ünnep,3/22/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Nagypéntek,4/17/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Húsvét,4/19/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Húsvét Hétfő,4/20/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Pünkösd,6/7/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pünkösdhétfő,6/8/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,A Munka ünnepe,5/8/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/20/2020,Az államalapítás ünnepe,8/27/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/21/2020,Az államalapítás ünnepe utáni pihenőnap,8/28/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/23/2020,Nemzeti ünnep,10/30/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Mindenszentek,11/8/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Szenteste,12/31/2020,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Karácsony,1/1/2021,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Karácsony másnapja,1/2/2021,Hungary,HU,Hungary,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/25/2020,Chinese New Year,2/1/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/22/2020,Ascension of the Prophet,3/29/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Ascension of Jesus,5/28/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/7/2020,Buddha's Birthday,5/14/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Pancasila Day,6/8/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Eid al-Fitr,6/1/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/17/2020,Independence Day,8/24/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/20/2020,Islamic New Year,8/27/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Birth of the Prophet,11/5/2020,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas,1/1/2021,Indonesia,ID,Republic of Indonesia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/17/2020,St. Patrick's Day,3/24/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Easter Monday,4/20/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/4/2020,May Day,5/11/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,June Bank Holiday,6/8/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/3/2020,Summer Bank Holiday,8/10/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/26/2020,October Bank Holiday,11/2/2020,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/28/2020,Boxing Day (Observed),1/4/2021,Ireland,IE,Ireland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/8/2020,Passover I - Eve,4/15/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Passover I,4/16/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Passover - Chol HaMoed,4/17/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/11/2020,Passover - Chol HaMoed,4/18/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Passover - Chol HaMoed,4/19/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Passover - Chol HaMoed,4/20/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/14/2020,Passover VII - Eve,4/21/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/15/2020,Passover VII,4/22/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/28/2020,Memorial Day,5/5/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/29/2020,Independence Day,5/6/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/12/2020,Lag B'Omer,5/19/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/28/2020,Shavuot - Eve,6/4/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/29/2020,Shavuot,6/5/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/18/2020,Rosh Hashanah - Eve,9/25/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/19/2020,Rosh Hashanah,9/26/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/20/2020,Rosh Hashanah,9/27/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/27/2020,Yom Kippur - Eve,10/4/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/28/2020,Yom Kippur,10/5/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/2/2020,Sukkot I - Eve,10/9/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/3/2020,Sukkot I,10/10/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/4/2020,Sukkot - Chol HaMoed,10/11/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/5/2020,Sukkot - Chol HaMoed,10/12/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/6/2020,Sukkot - Chol HaMoed,10/13/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/7/2020,Sukkot - Chol HaMoed,10/14/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/8/2020,Sukkot - Chol HaMoed,10/15/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/9/2020,Sukkot VII - Eve,10/16/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/10/2020,Sukkot VII,10/17/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/11/2020,Hanukkah,12/18/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/12/2020,Hanukkah,12/19/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/13/2020,Hanukkah,12/20/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/14/2020,Hanukkah,12/21/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/15/2020,Hanukkah,12/22/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/16/2020,Hanukkah,12/23/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/17/2020,Hanukkah,12/24/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/18/2020,Hanukkah,12/25/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/10/2020,Purim,3/17/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/9/2020,Purim - Eve,3/16/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/11/2020,Shushan Purim,3/18/2020,Israel,IL,State of Israel,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/26/2020,Republic Day,2/2/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Independence Day,8/22/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/2/2020,Gandhi Jayanti,10/9/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/14/2020,Diwali,11/21/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/9/2020,Holi,3/16/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/29/2020,Day of Ashura,9/5/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Mawlid,11/5/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Eid al-Fitr,5/31/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Eid al-Fitr,6/1/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/5/2020,Palm Sunday,4/12/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Maundy Thursday,4/16/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Easter Sunday,4/19/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Feast of Pentecost,6/7/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/5/2020,Fest of St. Theresa of Calcutta,9/12/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/8/2020,Feast of the Blessed Virgin,9/15/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,All Saints Day,11/8/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/2/2020,All Souls Day,11/9/2020,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/30/2020,Feast of Holy Family,1/6/2021,India,IN,Republic of India,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Skírdagur,4/16/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Föstudagurinn langi,4/17/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Páskadagur,4/19/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Annar í páskum,4/20/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/23/2020,Sumardagurinn fyrsti,4/30/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Verkalýðsdagurinn,5/8/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Uppstigningardagur,5/28/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Hvítasunnudagur,6/7/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Annar í hvítasunnu,6/8/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/17/2020,Þjóðhátíðardagurinn,6/24/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/3/2020,Frídagur verslunarmanna,8/10/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Aðfangadagur,12/31/2020,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Jóladagur,1/1/2021,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Annar í jólum,1/2/2021,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/31/2020,Gamlársdagur,1/7/2021,Iceland,IS,Republic of Iceland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Pasqua di Resurrezione,4/19/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Lunedì dell'Angelo,4/20/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/25/2020,Festa della Liberazione,5/2/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Festa dei Lavoratori,5/8/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/2/2020,Festa della Repubblica,6/9/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Assunzione della Vergine,8/22/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Tutti i Santi,11/8/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Immacolata Concezione,12/15/2020,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Natale,1/1/2021,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Santo Stefano,1/2/2021,Italy,IT,Italian Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/11/2020,建国記念の日,2/18/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/23/2020,天皇誕生日,3/1/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/20/2020,春分の日,3/27/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/29/2020,昭和の日,5/6/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/3/2020,憲法記念日,5/10/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/4/2020,みどりの日,5/11/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/5/2020,こどもの日,5/12/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/23/2020,海の日,7/30/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/10/2020,山の日,8/17/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/21/2020,敬老の日,9/28/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/22/2020,秋分の日,9/29/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/24/2020,体育の日,7/31/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/3/2020,文化の日,11/10/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/23/2020,勤労感謝の日,11/30/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/24/2020,振替休日,3/2/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/6/2020,振替休日,5/13/2020,Japan,JP,Japan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labour Day,5/8/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Madaraka Day,6/8/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/20/2020,Mashujaa Day,10/27/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/12/2020,Jamhuri (Independence) Day,12/19/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Easter Monday,4/20/2020,Kenya,KE,Republic of Kenya,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/25/2020,New Year's Day by the Lunar,2/1/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/1/2020,Independence Movement Day,3/8/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/30/2020,Buddha's Birthday,5/7/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/5/2020,Children's Day,5/12/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/6/2020,Memorial Day,6/13/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Liberation Day,8/22/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/1/2020,Chuseok,10/8/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/3/2020,National Foundation Day,10/10/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/9/2020,Hangeul Proclamation Day,10/16/2020,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,"Korea, Republic of",KR,"Korea, Republic of",-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/16/2020,Lietuvos valstybės atkūrimo diena,2/23/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/11/2020,Lietuvos nepriklausomybės atkūrimo diena,3/18/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Velykos,4/19/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Velykų antroji diena,4/20/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Tarptautinė darbo diena,5/8/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/3/2020,Motinos diena,5/10/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/7/2020,Tėvo diena,6/14/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/24/2020,"Joninės, Rasos",7/1/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/6/2020,Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena,7/13/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena),8/22/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Visų šventųjų diena (Vėlinės),11/8/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Šv. Kūčios,12/31/2020,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Šv. Kalėdų pirma diena,1/1/2021,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Šv. Kalėdų antra diena,1/2/2021,Lithuania,LT,Republic of Lithuania,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Ouschterméindeg,4/20/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Dag vun der Aarbecht,5/8/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/9/2020,Europadag,5/16/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Christi Himmelfaart,5/28/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Péngschtméindeg,6/8/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/23/2020,Nationalfeierdag,6/30/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Léiffrawëschdag,8/22/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Allerhellgen,11/8/2020,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Chrëschtdag,1/1/2021,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Stiefesdag,1/2/2021,Luxembourg,LU,Grand Duchy of Luxembourg,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/3/2020,Día de la Constitución [Constitution Day],2/10/2020,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/16/2020,Natalicio de Benito Juárez [Benito Juárez's birthday],3/23/2020,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/16/2020,Día de la Independencia [Independence Day],9/23/2020,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/16/2020,Día de la Revolución [Revolution Day],11/23/2020,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Mexico,MX,United Mexican States,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Birth of Prophet,11/5/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/25/2020,Chinese New Year,2/1/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/14/2020,Tamil New Year,4/21/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/7/2020,Wesak Day,5/14/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/25/2020,King's birthday,8/1/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Eid al-Fitr,5/31/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Eid al-Fitr,6/1/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/16/2020,Malaysia Day,9/23/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/20/2020,First Day of Muharram,8/27/2020,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Malaysia,MY,Malaysia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Worker's day,5/8/2020,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/27/2020,Children's day,6/3/2020,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/12/2020,Democracy day,6/19/2020,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/1/2020,Independence day,10/8/2020,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas day,1/1/2021,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing day,1/2/2021,Nigeria,NG,Federal Republic of Nigeria,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Jueves Santo [Maundy Thursday],4/16/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo [Good Friday],4/17/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/19/2020,Día de la Revolución [Revolution Day],7/26/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/14/2020,Batalla de San Jacinto [Battle of San Jacinto],9/21/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/15/2020,Día de la Independencia [Independence Day],9/22/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Concepción de María [Virgin's Day],12/15/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/1/2020,Bajada de Santo Domingo,8/8/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/10/2020,Subida de Santo Domingo,8/17/2020,Nicaragua,NI,Republic of Nicaragua,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Eerste paasdag,4/19/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Tweede paasdag,4/20/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Hemelvaart,5/28/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Eerste Pinksterdag,6/7/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Tweede Pinksterdag,6/8/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Eerste Kerstdag,1/1/2021,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Tweede Kerstdag,1/2/2021,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/5/2020,Bevrijdingsdag,5/12/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/27/2020,Koningsdag,5/4/2020,Netherlands,NL,Kingdom of the Netherlands,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,"Første påskedag, Søndag",4/19/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/17/2020,"Grunnlovsdag, Søndag",5/24/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,"Første pinsedag, Søndag",6/7/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Arbeidernes dag,5/8/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Første juledag,1/1/2021,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Andre juledag,1/2/2021,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Skjærtorsdag,4/16/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Langfredag,4/17/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Andre påskedag,4/20/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Kristi himmelfartsdag,5/28/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Andre pinsedag,6/8/2020,Norway,NO,Kingdom of Norway,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/6/2020,Waitangi Day,2/13/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Easter Monday,4/20/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/25/2020,Anzac Day,5/2/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/27/2020,Anzac Day (Observed),5/4/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/1/2020,Queen's Birthday,6/8/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/26/2020,Labour Day,11/2/2020,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boxing Day,1/2/2021,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/28/2020,Boxing Day (Observed),1/4/2021,New Zealand,NZ,New Zealand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/29/2020,San Pedro y San Pablo [Feast of Saints Peter and Paul],7/6/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/28/2020,Día de la Independencia [Independence Day],8/4/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/29/2020,Día de las Fuerzas Armadas y la Policía del Perú,8/5/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/30/2020,Día de Santa Rosa de Lima,9/6/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/8/2020,Combate Naval de Angamos [Battle of Angamos],10/15/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Jueves Santo [Maundy Thursday],4/16/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Viernes Santo [Good Friday],4/17/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/11/2020,Sábado de Gloria [Holy Saturday],4/18/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Domingo de Resurrección [Easter Sunday],4/19/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día del Trabajo [Labour Day],5/8/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Día de Todos Los Santos [All Saints Day],11/8/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Inmaculada Concepción [Immaculate Conception],12/15/2020,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Peru,PE,Republic of Peru,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,"Day of Valor, Maundy Thursday",4/16/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/12/2020,Independence Day,6/19/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/23/2020,Eid al-Fitr,5/30/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/27/2020,National Heroes' Day,9/3/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/30/2020,Bonifacio Day,12/7/2020,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/30/2020,Rizal Day,1/6/2021,Philippines,PH,Republic of the Philippines,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/5/2020,Kashmir Solidarity Day,2/12/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/23/2020,Pakistan Day,3/30/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/14/2020,Independence Day,8/21/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/9/2020,Iqbal Day,11/16/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Eid al-Fitr,5/31/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Eid al-Fitr,6/1/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/26/2020,Eid al-Fitr,6/2/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Mawlid,11/5/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/29/2020,Day of Ashura,9/5/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/30/2020,Day of Ashura,9/6/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/22/2020,Shab e Mairaj,3/29/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/6/2020,Defence Day,9/13/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/11/2020,Death Anniversary of Quaid-e-Azam,9/18/2020,Pakistan,PK,Islamic Republic of Pakistan,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Niedziela Wielkanocna,4/19/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Poniedziałek Wielkanocny,4/20/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Święto Państwowe,5/8/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/3/2020,Święto Narodowe Trzeciego Maja,5/10/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,Zielone Świątki,6/7/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/11/2020,Dzień Bożego Ciała,6/18/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Wniebowzięcie Najświętszej Marii Panny,8/22/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Uroczystość Wszystkich świętych,11/8/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/11/2020,Narodowe Święto Niepodległości,11/18/2020,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Boże Narodzenie (pierwszy dzień),1/1/2021,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Boże Narodzenie (drugi dzień),1/2/2021,Poland,PL,Republic of Poland,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Sexta-feira Santa,4/17/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Páscoa,4/19/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/11/2020,Corpo de Deus,6/18/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/5/2020,Implantação da República,10/12/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Dia de Todos os Santos,11/8/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/1/2020,Restauração da Independência,12/8/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/25/2020,Dia da Liberdade,5/2/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Dia do Trabalhador,5/8/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/10/2020,Dia de Portugal,6/17/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Assunção de Nossa Senhora,8/22/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Imaculada Conceição,12/15/2020,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Portugal,PT,Portuguese Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/2/2020,Día de los Héroes de la Patria[Patriots Day],3/9/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/9/2020,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],4/16/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],4/17/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,Día de Pascuas [Easter Day],4/19/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Día de los Trabajadores [Labour Day],5/8/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/15/2020,Día de la Independencia Nacional [Independence Day],5/22/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/15/2020,Día de la Paz del Chaco [Peace in Chaco Day],6/22/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Día de la Fundación de Asunción [Asuncion Fundation's Day],8/22/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/29/2020,Batalla de Boquerón [Boqueron's Battle],10/6/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/8/2020,Día de la Virgen de Caacupé [Caacupe Virgin Day],12/15/2020,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Navidad [Christmas],1/1/2021,Paraguay,PY,Republic of Paraguay,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/15/2020,Дан државности Србије,2/22/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/16/2020,Дан државности Србије,2/23/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/17/2020,Дан државности Србије (Observed),2/24/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Празник рада,5/8/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/2/2020,Празник рада,5/9/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/11/2020,Дан примирја у Првом светском рату,11/18/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/17/2020,Велики петак,4/24/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/18/2020,Велика субота,4/25/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/19/2020,Васкрс,4/26/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/20/2020,Други дан Васкрса,4/27/2020,Serbia,RS,Republic of Serbia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/23/2020,Defender of the Fatherland Day,3/1/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/8/2020,International Women's Day,3/15/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/22/2020,National Flag Day,8/29/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Spring and Labour Day,5/8/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/9/2020,Victory Day,5/16/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/12/2020,Russia Day,6/19/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/4/2020,Unity Day,11/11/2020,Russian Federation,RU,Russian Federation,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/12/2020,"Påskdagen, Söndag",4/19/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/31/2020,"Pingstdagen, Söndag",6/7/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Första maj,5/8/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/6/2020,Sveriges nationaldag,6/13/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Julafton,12/31/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Juldagen,1/1/2021,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Annandag jul,1/2/2021,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/31/2020,Nyårsafton,1/7/2021,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Långfredagen,4/17/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Annandag påsk,4/20/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/21/2020,Kristi himmelsfärdsdag,5/28/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/19/2020,Midsommarafton,6/26/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/20/2020,Midsommardagen,6/27/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/31/2020,Alla helgons dag,11/7/2020,Sweden,SE,Kingdom of Sweden,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/25/2020,Chinese New Year,2/1/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/26/2020,Chinese New Year [Sunday],2/2/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+1/27/2020,Monday following Chinese New Year,2/3/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/24/2020,Hari Raya Puasa [Sunday],5/31/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Monday following Hari Raya Puasa,6/1/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/31/2020,Hari Raya Haji,8/7/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labour Day,5/8/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/7/2020,Vesak Day,5/14/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/9/2020,National Day [Sunday],8/16/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/10/2020,Monday following National Day,8/17/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/14/2020,Deepavali,11/21/2020,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,Singapore,SG,Republic of Singapore,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/8/2020,Prešernov dan,2/15/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Velikonočni ponedeljek,4/20/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/27/2020,dan upora proti okupatorju,5/4/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,praznik dela,5/8/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/2/2020,praznik dela,5/9/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/25/2020,dan državnosti,7/2/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/15/2020,Marijino vnebovzetje,8/22/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/31/2020,dan reformacije,11/7/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,dan spomina na mrtve,11/8/2020,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Božič,1/1/2021,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,dan samostojnosti in enotnosti,1/2/2021,Slovenia,SI,Republic of Slovenia,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Veľký piatok,4/17/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Veľkonočný pondelok,4/20/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Sviatok práce,5/8/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/8/2020,Deň víťazstva nad fašizmom,5/15/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/5/2020,Sviatok svätého Cyrila a svätého Metoda,7/12/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/29/2020,Výročie Slovenského národného povstania,9/5/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/1/2020,Deň Ústavy Slovenskej republiky,9/8/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/15/2020,Sedembolestná Panna Mária,9/22/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/1/2020,Sviatok Všetkých svätých,11/8/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/17/2020,Deň boja za slobodu a demokraciu,11/24/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/24/2020,Štedrý deň,12/31/2020,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Prvý sviatok vianočný,1/1/2021,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Druhý sviatok vianočný,1/2/2021,Slovakia,SK,Slovak Republic,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/6/2020,Chakri Memorial Day,4/13/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/14/2020,Songkran Festival,4/21/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/7/2020,Buddha's Birthday,5/14/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/28/2020,King Maha Vajiralongkorn's Birthday,8/4/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/5/2020,Asalha Puja,7/12/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/6/2020,Beginning of Vassa,7/13/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/12/2020,The Queen Sirikit's Birthday,8/19/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/13/2020,Anniversary for the Death of King Bhumibol Adulyadej,10/20/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/23/2020,King Chulalongkorn Day,10/30/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/5/2020,King Bhumibol Adulyadej's Birthday Anniversary,12/12/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/10/2020,Constitution Day,12/17/2020,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/31/2020,New Year's Eve,1/7/2021,Thailand,TH,Kingdom of Thailand,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/23/2020,"National Sovereignty and Children's Day	",4/30/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Labor Day,5/8/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/19/2020,"Commemoration of Atatürk, Youth and Sports Day",5/26/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/15/2020,Democracy and National Unity Day,7/22/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/30/2020,Victory Day,9/6/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/29/2020,Republic Day,11/5/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/23/2020,Eid al-Fitr,5/30/2020,Turkey,TR,Republic of Turkey,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/8/2020,Міжнародний жіночий день,3/15/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/19/2020,Пасха (Великдень),4/26/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/7/2020,Трійця,6/14/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,День праці,5/8/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/9/2020,День перемоги,5/16/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/28/2020,День Конституції України,7/5/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/24/2020,День незалежності України,8/31/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/14/2020,День захисника України,10/21/2020,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Різдво Христове (католицьке),1/1/2021,Ukraine,UA,Ukraine,-3,3,10,https://github.com/dr-prodigy/python-holidays
+2/17/2020,Washington's Birthday,2/24/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/25/2020,Memorial Day,6/1/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/4/2020,Independence Day,7/11/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+7/3/2020,Independence Day (Observed),7/10/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/7/2020,Labor Day,9/14/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+10/12/2020,Columbus Day,10/19/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/11/2020,Veterans Day,11/18/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+11/26/2020,Thanksgiving,12/3/2020,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,United States,US,United States of America,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/10/2020,Good Friday,4/17/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/13/2020,Family Day,4/20/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/16/2020,Day of Reconciliation,12/23/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/25/2020,Christmas Day,1/1/2021,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+12/26/2020,Day of Goodwill,1/2/2021,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/21/2020,Human Rights Day,3/28/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+4/27/2020,Freedom Day,5/4/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+5/1/2020,Workers' Day,5/8/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+6/16/2020,Youth Day,6/23/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/9/2020,National Women's Day,8/16/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+9/24/2020,Heritage Day,10/1/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+8/10/2020,National Women's Day (Observed),8/17/2020,South Africa,ZA,Republic of South Africa,-3,3,10,https://github.com/dr-prodigy/python-holidays
+3/3/2020,Mother's Day,3/10/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+3/8/2020,International Women's Day,3/15/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+4/9/2020,National Unity Day,4/16/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+4/20/2020,"Eastern Orthodox Good Friday, Great Saturday, Easter Sunday and Easter Monday of Bright Week",4/27/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+5/9/2020,"Day of Victory over Fascism, Europe Day",5/16/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+5/12/2020,Saint Andrew the First-Called Day,5/19/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+5/26/2020,Independence Day,6/2/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+8/28/2020,Saint Mary's Day,9/4/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+10/14/2020,Day of Svetitskhoveli Cathedral (in Mtskheta),10/21/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+11/23/2020,Saint George's Day,11/30/2020,Georgia,GE,Georgia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
+4/10/2020,Good Friday,4/17/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+4/13/2020,Easter Monday,4/20/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+5/1/2020,Labour Day,5/8/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+5/4/2020,Restoration of Independence Day,5/11/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+6/23/2020,Midsummer's Eve,6/30/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+6/24/2020,Midsummer's Day,7/1/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+11/18/2020,Proclamation Day of the Republic of Latvia,11/25/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+12/24/2020,Christmas Eve,12/31/2020,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+12/25/2020,Christmas Day,1/1/2021,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+12/26/2020,Second Day of Christmas,1/2/2021,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+12/31/2020,New Year's Eve,1/7/2021,Latvia,LV,Republic of Latvia,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Latvia
+1/24/2020,Anniversary of the formation of the United Principalities,1/31/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+4/17/2020,Easter,4/24/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+4/19/2020,Easter,4/26/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+4/20/2020,Easter,4/27/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+5/1/2020,Labour Day,5/8/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+6/1/2020,Children's Day,6/8/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+6/7/2020,"Pentecost, Whit Monday",6/14/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+6/8/2020,"Pentecost, Whit Monday",6/15/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+11/30/2020,St. Andrew's Day,12/7/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+12/1/2020,National Day,12/8/2020,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+12/25/2020,Christmas Day,1/1/2021,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+12/26/2020,Christmas Day,1/2/2021,Romania,RO,Romania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Romania
+3/14/2020,Summer Day,3/21/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+3/22/2020,Nowruz,3/29/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+3/27/2020,Catholic Easter,4/3/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+3/28/2020,Catholic Easter,4/4/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+5/1/2020,"Orthodox Easter, May Day",5/8/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+5/2/2020,Orthodox Easter,5/9/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+7/5/2020,Eid al-Fitr,7/12/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+9/5/2020,Mother Teresa Day,9/12/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+9/12/2020,Eid al-Adha,9/19/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+11/28/2020,Independence Day,12/5/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+11/29/2020,Liberation Day,12/6/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+12/8/2020,Youth Day,12/15/2020,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+12/25/2020,Christmas Day,1/1/2021,Albania,AL,Republic of Albania,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Albania
+3/2/2020,Remembrance Day,3/9/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+3/8/2020,International Women's Day,3/15/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+4/19/2020,Orthodox Easter,4/26/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+4/20/2020,Orthodox Easter,4/27/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+5/1/2020,Labour Day,5/8/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+5/9/2020,Victory Day and Commemoration of the Fallen Heroes for the Independence of the Fatherland,5/16/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+6/1/2020,Children's Day,6/8/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+8/27/2020,Independence Day,9/3/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+8/31/2020,National Language Day,9/7/2020,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova
+12/25/2020,Christmas Day,1/1/2021,Moldova,MD,Republic of Moldova,-3,3,10,https://en.wikipedia.org/wiki/Public_holidays_in_Moldova

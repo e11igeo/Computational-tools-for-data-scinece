@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2d9bc97dc117750b43f634e82d96f561 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2d9bc97dc117750b43f634e82d96f561" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2d9bc97dc117750b43f634e82d96f561 = L.map(
+                "map_2d9bc97dc117750b43f634e82d96f561",
+                {
+                    center: [-14.235004, -51.92528],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_61805600806e11ad7e3d1d43517e21e6 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+                tile_layer_61805600806e11ad7e3d1d43517e21e6.addTo(map_2d9bc97dc117750b43f634e82d96f561);
+    
+            var marker_2b6743d6468c5001f3f484504e923c64 = L.marker(
+                [-9.702555041197337, -68.4518519482381],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_2b6743d6468c5001f3f484504e923c64.bindTooltip(
+                `<div>
+                     State: AC<br>Number of Customers: 81
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fb47717c24ee0df0a015e4818de56d12 = L.marker(
+                [-9.599728966379828, -36.05201677757483],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_fb47717c24ee0df0a015e4818de56d12.bindTooltip(
+                `<div>
+                     State: AL<br>Number of Customers: 413
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_97a8c4fba44d49ed9963b195d8640262 = L.marker(
+                [-3.349336304158689, -60.53742965565402],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_97a8c4fba44d49ed9963b195d8640262.bindTooltip(
+                `<div>
+                     State: AM<br>Number of Customers: 148
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d93d304db53d03833385a192f7eeea55 = L.marker(
+                [0.08602518971632306, -51.23430449751234],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_d93d304db53d03833385a192f7eeea55.bindTooltip(
+                `<div>
+                     State: AP<br>Number of Customers: 68
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_94b53fe26eab0592d72208bac63f29fa = L.marker(
+                [-13.049360869325652, -39.560648696030576],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_94b53fe26eab0592d72208bac63f29fa.bindTooltip(
+                `<div>
+                     State: BA<br>Number of Customers: 3380
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2e637a5042ba7f582293fcca31d555b2 = L.marker(
+                [-4.36315122962809, -39.00413976333794],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_2e637a5042ba7f582293fcca31d555b2.bindTooltip(
+                `<div>
+                     State: CE<br>Number of Customers: 1336
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cc77931bcf9f512b132442b90259f77b = L.marker(
+                [-15.810884759001096, -47.96963045270266],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_cc77931bcf9f512b132442b90259f77b.bindTooltip(
+                `<div>
+                     State: DF<br>Number of Customers: 2140
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9d23d495a880ecabe46c9e006ef9148d = L.marker(
+                [-20.105145324187276, -40.50318322322485],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_9d23d495a880ecabe46c9e006ef9148d.bindTooltip(
+                `<div>
+                     State: ES<br>Number of Customers: 2033
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6001b9c27f33577cc96d83231b4c70b3 = L.marker(
+                [-16.577644584237593, -49.33419502806323],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_6001b9c27f33577cc96d83231b4c70b3.bindTooltip(
+                `<div>
+                     State: GO<br>Number of Customers: 2020
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bcadb9f854f397e142b9a2e731c4f011 = L.marker(
+                [-3.7989966701671265, -44.81862689333526],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_bcadb9f854f397e142b9a2e731c4f011.bindTooltip(
+                `<div>
+                     State: MA<br>Number of Customers: 747
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_33136c585071c720d77d860eeed85f04 = L.marker(
+                [-19.8646472791171, -44.42161506590787],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_33136c585071c720d77d860eeed85f04.bindTooltip(
+                `<div>
+                     State: MG<br>Number of Customers: 11635
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_52843e3dbe63e7d6c2de83b45305581d = L.marker(
+                [-20.765005763284858, -54.53214031549422],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_52843e3dbe63e7d6c2de83b45305581d.bindTooltip(
+                `<div>
+                     State: MS<br>Number of Customers: 715
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_5971838838d5876b60e49ec1e6d04202 = L.marker(
+                [-14.156481652355609, -55.708955824019334],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_5971838838d5876b60e49ec1e6d04202.bindTooltip(
+                `<div>
+                     State: MT<br>Number of Customers: 907
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_d27376c0f35466e53a8a07cd4503f608 = L.marker(
+                [-2.6312130665342277, -49.4858616770825],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_d27376c0f35466e53a8a07cd4503f608.bindTooltip(
+                `<div>
+                     State: PA<br>Number of Customers: 975
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_adbd7844ce5e1125ae6b340887a7e484 = L.marker(
+                [-7.08829790924903, -35.82167825839298],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_adbd7844ce5e1125ae6b340887a7e484.bindTooltip(
+                `<div>
+                     State: PB<br>Number of Customers: 536
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_fb4cd86cddea8433a986e27ae34d9708 = L.marker(
+                [-8.179098403904215, -35.75886555563954],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_fb4cd86cddea8433a986e27ae34d9708.bindTooltip(
+                `<div>
+                     State: PE<br>Number of Customers: 1652
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_869f0cdd5634ea509af5b4c79918908b = L.marker(
+                [-5.754988726061569, -42.50954149377485],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_869f0cdd5634ea509af5b4c79918908b.bindTooltip(
+                `<div>
+                     State: PI<br>Number of Customers: 495
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ddddadcec0cf778a10e96334d73fed0d = L.marker(
+                [-24.793606676623277, -50.8796624431511],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_ddddadcec0cf778a10e96334d73fed0d.bindTooltip(
+                `<div>
+                     State: PR<br>Number of Customers: 5045
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_765f4c60acfd8f65a22aae873e9a3a18 = L.marker(
+                [-22.743477321669616, -43.15554026830261],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_765f4c60acfd8f65a22aae873e9a3a18.bindTooltip(
+                `<div>
+                     State: RJ<br>Number of Customers: 12852
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_49861609d6c74c2bdf74f9c17096e4a8 = L.marker(
+                [-5.856702064225209, -35.99007862513833],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_49861609d6c74c2bdf74f9c17096e4a8.bindTooltip(
+                `<div>
+                     State: RN<br>Number of Customers: 485
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a1a56eb620162125719f874c8bb7948b = L.marker(
+                [-10.341289125647073, -62.720578548602134],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_a1a56eb620162125719f874c8bb7948b.bindTooltip(
+                `<div>
+                     State: RO<br>Number of Customers: 253
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_39d8ba6f99c4a6c3a60928e98c4f87f5 = L.marker(
+                [2.7171004644238934, -60.67286554709663],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_39d8ba6f99c4a6c3a60928e98c4f87f5.bindTooltip(
+                `<div>
+                     State: RR<br>Number of Customers: 46
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6976f8c5eb5e81219aaf53e728407def = L.marker(
+                [-29.67919062328251, -52.03265163171496],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_6976f8c5eb5e81219aaf53e728407def.bindTooltip(
+                `<div>
+                     State: RS<br>Number of Customers: 5466
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f042c8eb85b7598997d6dedfefbdfdd8 = L.marker(
+                [-27.222485826583537, -49.6179368726889],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_f042c8eb85b7598997d6dedfefbdfdd8.bindTooltip(
+                `<div>
+                     State: SC<br>Number of Customers: 3637
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6c75cc50af712c4061375ad7cc6f9fba = L.marker(
+                [-10.866199407643286, -37.18116903794639],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_6c75cc50af712c4061375ad7cc6f9fba.bindTooltip(
+                `<div>
+                     State: SE<br>Number of Customers: 350
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f96fab6a15fbb491a94aae6f1f9d86bd = L.marker(
+                [-23.155308346172937, -47.0840736716131],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_f96fab6a15fbb491a94aae6f1f9d86bd.bindTooltip(
+                `<div>
+                     State: SP<br>Number of Customers: 41746
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_25e0dd6e8a3d8a83d2e4440ab678108f = L.marker(
+                [-9.503700370876633, -48.348661062026544],
+                {}
+            ).addTo(map_2d9bc97dc117750b43f634e82d96f561);
+        
+    
+            marker_25e0dd6e8a3d8a83d2e4440ab678108f.bindTooltip(
+                `<div>
+                     State: TO<br>Number of Customers: 280
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
